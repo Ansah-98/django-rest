@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class TutConfig(AppConfig):
+class TutsConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'tut'
+    name = 'tuts'
